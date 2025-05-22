@@ -1,21 +1,26 @@
-# Technological Partnership
+# Bitrix Market Partner Status
 
-A technological partnership is essential for developers who are not participants in the regular [Bitrix24 partner program](https://partners.bitrix24.com), do not sell licenses for 1C-Bitrix software products, and simply want to showcase their solutions and integrations in the Bitrix24 Market.
+## General information
+  1. Bitrix24 partner status is needed to publish and list products at the [Bitrix24 Market](https://www.bitrix24.com/apps/).
+  2. Minimal status – “Partner”. If you are already a member of the Bitrix24 affiliate program, you can immediately proceed to authorization in the partner account.
+  3. Currently, the terms of the program for publishing affiliate products at the Bitrix24 Market are governed by additional documents that you will need to sign by filling out [account details](https://vendors.bitrix24.com/app/app.php?regionid=2&action=add&id=0) after receiving affiliate status.
+  4. Bitrix24 Market modules are managed in the [vendor’s account](https://vendors.bitrix24.com/technology-partnership/).
 
-Becoming a technological partner to list your solutions in Bitrix24 Market is quite straightforward.
+## Rules for obtaining partner status for publishing products in Bitrix24 Market
 
-Visit the [Developer's area](https://vendors.bitrix24.com/) and fill out the application form you see there:
+**A.** Register as a developer by filling out the following [form](https://vendors.bitrix24.com/technology-partnership/) fields:
+  1. **First and Last Name** – these fields are needed to create a user account that will be linked to your partner account;
+  2. **E-mail** – this value will be used as your login for the partner account (you can later add additional users), as well as for sending automatic notifications (about the moderation status of your solutions, publication, etc.);
+  3. **Phone** – necessary for quick communication with you in case your e-mail for some reason is unavailable;
+  4. **Partner Code** is a character identification code that will be used for further generation of codes for your modules and solutions (for example, Bitrix24Assistant solution published as an affiliate solution with the code bitrix.assistant, where bitrix – **partner code**, assistant – specific module code).After adding at least one module for Bitrix24 Market, this prefix cannot bechanged, so choose it carefully;
+  5. **Company name, website** – please fill in these fields to tell moderators about yourself who are reviewing your technology partnership application;
+  6. **Company description** – in this field it is advisable to tell what solutions you plan topublish after receiving the Partner status.
 
-- **First and Last Name** – these fields are needed to create a user account that will be linked to your partner account;
-- **E-mail** – this value will be used as your login for the partner account (you can later add additional users), as well as for sending automatic notifications (about the moderation status of your solutions, publication, etc.);
-- **Phone** – necessary for quick communication with you in case the e-mail is unavailable for any reason;
-- **Partner Code** – a symbolic code that will be used for further generation of codes for your modules and solutions. For example, if you open the page of the [application for integration with Miro](https://www.bitrix24.com/apps/app/integrations24.miro/) developed by Bitrix in the Market, you will see that very symbolic code of the application in the browser's address bar. The prefix used here is "integrations24". Once you add at least one solution for Bitrix24 Market, you will not be able to change this prefix, so choose it carefully.
-- **Company Name, Company Website** – please fill out these fields to provide information about yourself to the moderators reviewing your application for technological partnership;
-- **Comment** – in this field, it is advisable to describe what solutions you plan to publish after obtaining the status of "technological partner."
+**B.** You will receive access to the partner account immediately after filling out the form.
 
-You just need to agree to the terms of personal data processing and click the "Submit" button.
+**C.** The application is reviewed within 3-4 business days and in some cases may be rejected.
 
-After that, you will be automatically logged into the Developer's area. It is recommended to immediately go to your user profile and change the password for further work with the account.
+**D.** After filling out the form, a [partner account](https://vendors.bitrix24.com/technology-partnership/) becomes available to you, within which you will be able to work with the necessary documents, as well as manage your products for Bitrix24 Market.
 
 ## Continue Learning
 
