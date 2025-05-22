@@ -8,6 +8,8 @@ You can also specify catalog categories, sales terms, and fill in descriptions.
 
 You may postpone filling out the application card until the submission stage for moderation for publication in Bitrix24 Market.
 
+![alt-текст](_images/add_app.jpg)
+
 
 
 ## Testing Functionality
