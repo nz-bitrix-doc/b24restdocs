@@ -8,8 +8,6 @@ You can also specify catalog categories, sales terms, and fill in descriptions.
 
 You may postpone filling out the application card until the submission stage for moderation for publication in Bitrix24 Market.
 
-![alt-текст](_images/add_app.jpg)
-
 
 
 ## Testing Functionality
@@ -17,8 +15,6 @@ You may postpone filling out the application card until the submission stage for
 In the solution card, click the "Test" button. Here you will find [authorization keys](../../api-reference/oauth/index.md) (`client_id` and `secret_id`) and can specify the address of the Bitrix24 account for testing. A new tab will open with your account displaying the solution card in the Market and a "Install" button.
 
 You must independently test the main user scenarios, including installation, uninstallation, and reinstallation of the solution.
-
-![alt-текст](_images/test.jpg)
 
 
 
@@ -31,8 +27,6 @@ To do this, go to the main page and navigate to the ["Sales Settings"](https://v
 For free placement, it is sufficient to agree to the Marketplace Policy of the general terms of use for the partner catalog of solutions. 
 
 In the upper right corner, by clicking the "Instructions" button, you can find explanations for filling out this section and requirements for legal entities.
-
-![alt-текст](_images/documents.jpg)
 
 
 
@@ -47,5 +41,3 @@ In case of any errors in filling out the information in the solution card, you w
 Moderation takes 1-3 business days. In case of discrepancies, the moderator will return the solution for revision with comments, which you can find in the chat in the upper right corner of the account. After making corrections, resubmit the solution for moderation.
 
 Upon successful moderation, you will receive a notification in the chat with the moderator. The solution will immediately become available in the catalog, but indexing for search occurs once a day.
-
-![alt-текст](_images/publication.jpg)
