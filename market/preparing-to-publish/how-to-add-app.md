@@ -18,6 +18,8 @@ In the solution card, click the "Test" button. Here you will find [authorization
 
 You must independently test the main user scenarios, including installation, uninstallation, and reinstallation of the solution.
 
+![alt-текст](_images/test.jpg)
+
 
 
 ## Signing agreements
@@ -29,6 +31,8 @@ To do this, go to the main page and navigate to the ["Sales Settings"](https://v
 For free placement, it is sufficient to agree to the Marketplace Policy of the general terms of use for the partner catalog of solutions. 
 
 In the upper right corner, by clicking the "Instructions" button, you can find explanations for filling out this section and requirements for legal entities.
+
+![alt-текст](_images/documents.jpg)
 
 
 
@@ -44,4 +48,4 @@ Moderation takes 1-3 business days. In case of discrepancies, the moderator will
 
 Upon successful moderation, you will receive a notification in the chat with the moderator. The solution will immediately become available in the catalog, but indexing for search occurs once a day.
 
-
+![alt-текст](_images/publication.jpg)
